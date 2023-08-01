@@ -154,7 +154,7 @@ function App() {
 
                 <h3>Contact Management</h3>
                 <Navbar/>
-                <Routes>
+                <Routes >
                     <Route path={'/'} exact element={<Navigate to={'/contacts'}/>}/>
                     <Route path={'/contacts'} exact element={<Contacts/>}/>
                     <Route path={'/add'} element={<AddContact submitNewContact={submitNewContact}/>}/>
