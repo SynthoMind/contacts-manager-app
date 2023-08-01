@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts/REM-Medium.eot');
+    src: url('../fonts/REM-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/REM-Medium.woff2') format('woff2'),
+        url('../fonts/REM-Medium.woff') format('woff'),
+        url('../fonts/REM-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

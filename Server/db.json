@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "fullname": "sadegh khajepour",
+      "photo": "https://media.licdn.com/dms/image/C5603AQGMaxPI6BOagQ/profile-displayphoto-shrink_800_800/0/1607521757143?e=2147483647&v=beta&t=WL6L8z05foGPsym4dWNCuwvrbsgiPOosyjgjHAsmWGY",
+      "mobile": "+989138463446",
+      "email": "sakha1370@gmail.com",
+      "job": "Programmer",
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "Reyhane Ebrahimi",
+      "photo": "https://s3.amazonaws.com/shecodesio-production/candidates/avatars/000/052/857/medium/photo_%DB%B2%DB%B0%DB%B2%DB%B1-%DB%B0%DB%B3-%DB%B0%DB%B9_%DB%B0%DB%B9-%DB%B0%DB%B3-%DB%B2%DB%B6.jpg?1664691221",
+      "mobile": "+98162491185",
+      "email": "reyhaneebrahimi27@gmail.com",
+      "job": "Programmer",
+      "group": "3",
+      "id": 3
+    },
+    {
+      "fullname": "Josefa Spencer",
+      "mobile": "472",
+      "email": "your.email+fakedata81449@gmail.com",
+      "photo": "https://kariran.org/wp-content/uploads/2021/10/logo-left.jpg",
+      "group": "2",
+      "job": "International Implementation Assistant",
+      "id": 7
+    },
+    {
+      "fullname": "صادق خواجه پور",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlum7rcNtHSzBE70E1tTnXc_FxNxJkypXYVBXTvTihrQ&s",
+      "mobile": 9140584495,
+      "email": "sakha1370@gmail.com",
+      "job": "",
+      "group": "2",
+      "id": 9
+    },
+    {
+      "fullname": "صادق خواجه پور",
+      "photo": "https://kariran.org/wp-content/uploads/2021/10/logo-left.jpg",
+      "mobile": 9140584495,
+      "email": "sakha1370@gmail.com",
+      "job": "fdf",
+      "group": "1",
+      "id": 10
+    },
+    {
+      "fullname": "Rosella Glover-Bartoletti",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAdr0CLJ6XXNCKb1qS_XvuwVNtqSr929R5eotJI4gAp-I_x6hMUCr2Mu2YK88tdIlZq8&usqp=CAU",
+      "mobile": 483,
+      "email": "your.email+fakedata87760@gmail.com",
+      "job": "Internal Integration Supervisor",
+      "group": "2",
+      "id": 11
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Services"
+    },
+    {
+      "id": "5",
+      "name": "Acquaintances"
+    }
+  ]
+}
